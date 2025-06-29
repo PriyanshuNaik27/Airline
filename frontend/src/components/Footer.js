@@ -80,7 +80,7 @@ function Footer(){
                                 <li><a href=""><img src="#" alt=""></img></a></li>
                             </ul> */}
                         </div>
-                        <p className="">©2023 FlyNow All Rights Reserved.</p>
+                        <p className="">©2025 FlyNow All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
