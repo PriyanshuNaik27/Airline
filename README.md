@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd client
+   cd backend
    ```
 
 3. Install the dependencies:
@@ -40,7 +40,7 @@ The frontend application should now be running on `http://localhost:3000`.
 
 1. Navigate to the server directory:
    ```bash
-   cd server
+   cd frontend
    ```
 
 2. Install the dependencies:
