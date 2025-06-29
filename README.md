@@ -2,8 +2,6 @@
 
 Welcome to FlyNow, a flight booking website built with the MERN stack (MongoDB, Express.js, React, Node.js). With FlyNow, you can seamlessly book flights and manage your bookings with ease. Our platform also features integrated payment gateway functionality, enabling secure and real-time payments for a smooth and efficient transaction experience.
 
-Deployed project link : https://flynow-five.vercel.app/
-
 ## Table of Contents
 
 - [Installation](#installation)
